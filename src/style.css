@@ -47,6 +47,10 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
+.footer a {
+  text-decoration: none;
+  color: #006ec5;
+}
 .temp {
   text-align: center;
   margin: 0 auto;
